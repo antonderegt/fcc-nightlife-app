@@ -1,0 +1,5 @@
+export const GET_USER = 'GET_USER'
+export const SIGN_OUT = 'SIGN_OUT'
+export const GET_BARS = 'GET_BARS'
+export const GOING_USERS = 'GOING_USERS'
+export const SAVE_LOCATION = 'SAVE_LOCATION'
