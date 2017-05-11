@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Anton de Regt <antonderegt@gmail.com>",
   "scripts": {
-    "start": "webpack -p && node server",
+    "start": "node server",
     "serve": "cross-env NODE_ENV=production webpack -w"
   },
   "dependencies": {
